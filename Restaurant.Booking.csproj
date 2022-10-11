@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Restaurant.Messaging\Messaging.csproj" />
+  </ItemGroup>
+
 </Project>
