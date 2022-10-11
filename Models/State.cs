@@ -1,4 +1,4 @@
-﻿namespace TableBooking.Models
+﻿namespace Restaurant.Booking.Models
 {
     public enum State
     {
